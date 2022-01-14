@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { moveCursor } from "readline";
 import './styles.css';
 
 function Form() {
