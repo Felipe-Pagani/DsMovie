@@ -54,4 +54,4 @@ function FormCard({ movieId }: Props) {
     )
 }
 
-export default FormCard;
+export default FormCard; 
